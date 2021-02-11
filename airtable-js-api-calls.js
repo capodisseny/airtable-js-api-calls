@@ -11,7 +11,7 @@ let  apiCall = function(baseId, tableId, params = {}, method = "GET"){
         method: method,
         headers: {
             'Content-Type': 'application/json',
-            'Authorization': 'Bearer keyZS9YvfpGLVeQD0',
+            'Authorization': 'Bearer APIKEY',
            // 'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, PATCH'
         }
         }
